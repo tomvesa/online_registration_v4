@@ -117,7 +117,7 @@ textarea {
 
 
 .newsletter-section {
-    border-top: 1px solid #000;
+    
     padding-top: .7em;
     margin-top: .7em;
 }
@@ -210,6 +210,12 @@ main, form {
 fieldset{
     margin: auto;
     width: 100%;
+}
+
+.contact-section {
+    border-bottom: 1px solid;
+    padding-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .contact-section .field-holder {
